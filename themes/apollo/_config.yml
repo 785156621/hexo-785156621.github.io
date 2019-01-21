@@ -1,8 +1,8 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/3774381537
-    GitHub: https://github.com/785156621
+    首页: /
+    归档: /archives/
+    微博: http://weibo.com/3774381537
+    github: https://github.com/785156621
     Rss: /atom.xml
 
 favicon: /favicon.png

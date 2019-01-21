@@ -49,4 +49,9 @@ date: 2017-12-12 10:07:17
 
 ### 8，常见问题
 
-执行vagrant up时报以下错误： ![](http://gdmizi.com/wp-content/uploads/2017/12/QQ图片20171211143055.png) 解决方法： `vagrant plugin install vagrant-vbguest` `vagrant reload`   相关链接：http://blog.star7th.com/2015/06/1538.html http://blog.csdn.net/yjk13703623757/article/details/70040797 http://blog.csdn.net/demon3182/article/details/51436032 http://www.jb51.net/article/121766.htm
+执行vagrant up时报以下错误： 解决方法： `vagrant plugin install vagrant-vbguest` `vagrant reload`
+
+相关链接：http://blog.star7th.com/2015/06/1538.html 
+http://blog.csdn.net/yjk13703623757/article/details/70040797 
+http://blog.csdn.net/demon3182/article/details/51436032
+http://www.jb51.net/article/121766.htm
